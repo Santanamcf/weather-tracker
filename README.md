@@ -30,7 +30,8 @@
   https://santanamcf.github.io/weather-tracker/
   
   ## Screenshot
-  ![Screen Shot 2022-09-06 at 1 25 40 AM](https://user-images.githubusercontent.com/107505577/188585688-33dab659-2247-45ab-9e46-6cf1cecd1303.png)
+  ![Screen Shot 2022-09-06 at 1 39 58 AM](https://user-images.githubusercontent.com/107505577/188588981-f15c87a2-4729-43b5-9ccc-16cdfe2b09c0.png)
+
 
   
   ## Questions
