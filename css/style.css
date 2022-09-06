@@ -1,8 +1,16 @@
-.main-heading {
-    text-align: center;
-    font-size: 80px;
+.navbar-brand {
+    font-size: 36px;
 }
 
-.search-bar{
-    text-align: center;
+.search-header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 18px
 }
